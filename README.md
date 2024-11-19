@@ -1,2 +1,2 @@
 # Algebra
-Here I have a Python program that checks and generates matrices in reduced row echelon form (RREF)
+A Python-based program for generating and verifying matrices in reduced row echelon form. Includes functionality for testing matrices with specified dimensions and interactive matrix creation.
